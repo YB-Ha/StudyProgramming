@@ -5,4 +5,8 @@ public class FirstApp
 		System.out.println("Hi");
 		System.out.println("test java");
 	}
+
+	public void printHello()
+	{
+	}
 }
