@@ -15,5 +15,6 @@ public class FirstApp
 	public void printHello()
 	{
 		System.out.println("AAA");
+		System.out.println("BBB");
 	}
 }
