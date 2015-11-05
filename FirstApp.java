@@ -4,5 +4,11 @@ public class FirstApp
 	{
 		System.out.println("Hi");
 		System.out.println("test java");
+		System.out.println("YB.Ha");
+	}
+
+	public void printHelo()
+	{
+		System.out.println("Hello");
 	}
 }
