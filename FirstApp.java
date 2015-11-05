@@ -11,4 +11,8 @@ public class FirstApp
 	{
 		System.out.println("Hello");
 	}
+
+	public void printHello()
+	{
+	}
 }
